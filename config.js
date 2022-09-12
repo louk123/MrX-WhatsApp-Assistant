@@ -20,7 +20,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['212605921732'] //you can add multiple number
-global.ownername = "𝙈𝙧𝙓 "
+global.ownername = "𝐇𝐙7𝐗 "
 global.ytname = "YT: MrX Tech Academy" //ur yt chanel name
 global.socialm = "GitHub: 786unknown420" //ur github or insta name
 global.location = "Pakistan, India, TamilNadu, Coimbatore" //ur location
@@ -30,15 +30,15 @@ global.botname = "𝙈𝙧𝙓 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞
 global.websitex = "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant" //ur website
 global.vidmenu = fs.readFileSync("./TurboMedia/theme/alexa.mp4") //gif and video menu
 global.packname = "𝙈𝙧𝙓 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 "
-global.author = "𝙈𝙧𝙓 "
+global.author = "𝐇𝐙7𝐗 "
 global.themeemoji = "💖"
 global.reactmoji = "🌹"
-global.ownertag = ['923055108095'] //ur owner number
-global.ownernummenu = ['923055108095'] //ur owner number in menu and all
+global.ownertag = ['212605921732'] //ur owner number
+global.ownernummenu = ['212605921732'] //ur owner number in menu and all
 global.watermark = "" //ur watermark
-global.botscript = "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant"
-global.linkz1 = "https://chat.whatsapp.com/KbeXBmjO6Ab5wVQnIA142v"
-global.linkz2 = "https://chat.whatsapp.com/KbeXBmjO6Ab5wVQnIA142v"
+global.botscript = "https://youtu.be/ticZ998HxvY"
+global.linkz1 = "https://youtu.be/ticZ998HxvY"
+global.linkz2 = "https://youtu.be/ticZ998HxvY"
 
 //Bot theme media
 global.thum = fs.readFileSync("./TurboMedia/theme/alexa.jpg") //ur thumb pic

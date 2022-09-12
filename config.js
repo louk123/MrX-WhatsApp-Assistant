@@ -19,7 +19,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923055108095'] //you can add multiple number
+global.owner = ['212605921732'] //you can add multiple number
 global.ownername = "𝙈𝙧𝙓 "
 global.ytname = "YT: MrX Tech Academy" //ur yt chanel name
 global.socialm = "GitHub: 786unknown420" //ur github or insta name
